@@ -1,0 +1,6 @@
+a=100 
+b=int(input('enter value'))
+if a>b:
+    print('number is less than 100' )
+else:
+    print('number is greater than 100')
